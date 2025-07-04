@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  background-color: #111;
+  color: #fff;
+}
+
+header {
+  background-color: #6a0dad;
+  padding: 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 2rem;
+}
+
+nav ul {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.hero {
+  padding: 60px;
+  text-align: center;
+  background: url("https://i.imgur.com/mQZJjNl.jpg") no-repeat center center/cover;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2rem;
+}
+
+.btn {
+  display: inline-block;
+  margin-top: 20px;
+  background-color: #fff;
+  color: #6a0dad;
+  padding: 10px 20px;
+  border-radius: 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #333;
+  text-align: center;
+  padding: 10px;
+}
