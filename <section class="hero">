@@ -1,0 +1,23 @@
+<section class="products">
+  <h2>منتجاتنا</h2>
+  <div class="product-list">
+    <div class="product">
+      <img src="https://i.imgur.com/zlK6KXW.png" alt="تيشيرت BTS" />
+      <h3>تيشيرت BTS</h3>
+      <p>سعر: 300 جنيه</p>
+      <a href="https://wa.me/201116341724" target="_blank" class="btn">اطلب الآن</a>
+    </div>
+    <div class="product">
+      <img src="https://i.imgur.com/tVoZ3dr.png" alt="هودي ARMY" />
+      <h3>هودي ARMY</h3>
+      <p>سعر: 450 جنيه</p>
+      <a href="https://wa.me/201116341724" target="_blank" class="btn">اطلب الآن</a>
+    </div>
+    <div class="product">
+      <img src="https://i.imgur.com/fEGkU1u.png" alt="جاكيت BTS" />
+      <h3>جاكيت BTS</h3>
+      <p>سعر: 600 جنيه</p>
+      <a href="https://wa.me/201116341724" target="_blank" class="btn">اطلب الآن</a>
+    </div>
+  </div>
+</section>
